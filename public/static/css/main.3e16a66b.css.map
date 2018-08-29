@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/ChatContainer.css"],"names":[],"mappings":"AAAA,kBACI,gBACA,UACA,QAAU","file":"static/css/main.3e16a66b.css","sourcesContent":["ul.chat-container {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/components/ChatContainer.css"],"sourceRoot":""}
